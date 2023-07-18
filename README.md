@@ -6,7 +6,7 @@ My goal is to have a meaningful impact by combining Health Sciences with Compute
 
 ### 🚀 Some projects I have released
 
-• [Leszálló](https://apps.apple.com/us/app/leszálló/id1534430039) a public-transport assistant made for Budapest.
+• [Leszálló](https://apps.apple.com/us/app/leszálló/id1534430039) a public-transport assistant iOS app, made for Budapest.
 
 • [Kamufalu](https://www.twitter.com/kamufalu/) which is a TensorFlow model generating non-existing Hungarian small-village names.
 
