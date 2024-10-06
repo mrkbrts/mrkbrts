@@ -1,6 +1,6 @@
 ### 🖖🏻 Hey. Hoi. Hola! Hallo. Szia.
 
-Currently, I'm an Artificial Intelligence BSs student at Vrije Universiteit Amsterdam. 🎓
+Currently, I'm a Bioinformatics and Systems Biology MSc student at Vrije Universiteit Amsterdam, where I have already obtained my BSc Artificial Intelligence. 🎓
 
 My goal is to have a meaningful impact by combining Health Sciences with Computer Science. 👨🏻‍🔬
 
