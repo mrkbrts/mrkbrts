@@ -1,4 +1,4 @@
-### 🖖🏻 Hey. Hoi. Hallo. Szia.
+### 🖖🏻 Hey. Hoi. Hola! Hallo. Szia.
 
 Currently, I'm an Artificial Intelligence BSs student at Vrije Universiteit Amsterdam. 🎓
 
